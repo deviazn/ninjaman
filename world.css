@@ -26,6 +26,15 @@
     display: inline-block;
 }
 
+.onigiri {
+    background-color: black;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    background-image: url('img/onigiri.png');
+    background-size: contain;
+}
+
 #ninjaman {
     background-color: black;
     height: 40px;
